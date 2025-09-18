@@ -3,3 +3,6 @@
 
 ## Microsoft AI School 8th Git/github practice !
 ## 2025-09-18-목요일
+
+-  포트폴리오 게시
+-   로컬 깃과 연동
